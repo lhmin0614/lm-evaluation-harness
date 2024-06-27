@@ -1,0 +1,6 @@
+group: mmlu_redux
+task:
+- mmlu_redux_stem
+- mmlu_redux_other
+- mmlu_redux_social_sciences
+- mmlu_redux_humanities
